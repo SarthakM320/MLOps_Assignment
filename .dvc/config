@@ -3,4 +3,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://mlopsassignment2/dvcstore
+    url = s3://mlopsassignment2/datastore
