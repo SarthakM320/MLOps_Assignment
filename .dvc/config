@@ -3,4 +3,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://mlopsassignment2/datastore
+    url = s3://mlopsdvc170100035/metricstore
