@@ -1,0 +1,8 @@
+2021-08-01 16:45:29,597:INFO:Initializing load_model()
+2021-08-01 16:45:29,598:INFO:load_model(verbose=True, authentication={'bucket': 'mlopsassignment2'}, platform=aws, model_name=LDA_deployed)
+2021-08-01 16:45:33,581:INFO:Initializing load_model()
+2021-08-01 16:45:33,581:INFO:load_model(verbose=False, authentication=None, platform=None, model_name=LDA_deployed)
+2021-08-01 16:45:33,597:INFO:Initializing load_model()
+2021-08-01 16:45:33,597:INFO:load_model(verbose=True, authentication={'bucket': 'mlopsassignment2'}, platform=aws, model_name=KNC_deployed)
+2021-08-01 16:45:36,399:INFO:Initializing load_model()
+2021-08-01 16:45:36,399:INFO:load_model(verbose=False, authentication=None, platform=None, model_name=KNC_deployed)

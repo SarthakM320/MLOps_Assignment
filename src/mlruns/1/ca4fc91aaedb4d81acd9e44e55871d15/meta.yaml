@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/MLOps_Assignment/src/mlruns/1/ca4fc91aaedb4d81acd9e44e55871d15/artifacts
+end_time: 1627814338720
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ca4fc91aaedb4d81acd9e44e55871d15
+run_uuid: ca4fc91aaedb4d81acd9e44e55871d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627814338548
+status: 3
+tags: []
+user_id: sarth
